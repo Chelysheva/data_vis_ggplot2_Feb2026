@@ -4,7 +4,7 @@
 
 This interactive online MSD Skills training course is aimed at MSD postgraduate research students and staff with some programming experience in R who want to expand their skills to create publication quality figures from biological data.
  
-* 1st December @ 10.00am - 1.00pm 
+* 27th February @ 10.00am - 1.00pm 
  
 ## COURSE AIM 
 This half-day course is aimed at intermediate users of R who want to visualise their data with ggplot2 and its extensions.
